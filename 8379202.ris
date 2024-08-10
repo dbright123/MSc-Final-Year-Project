@@ -1,0 +1,25 @@
+TY  - JOUR
+A2  - Kumar, Vijay
+AU  - Kumar Arora, Tarun
+AU  - Kumar Chaubey, Pavan
+AU  - Shree Raman, Manju
+AU  - Kumar, Bhupendra
+AU  - Nagesh, Yagnam
+AU  - Anjani, P. K.
+AU  - Ahmed, Hamed M. S.
+AU  - Hashmi, Arshad
+AU  - Balamuralitharan, S.
+AU  - Debtera, Baru
+PY  - 2022
+DA  - 2022/09/20
+TI  - Optimal Facial Feature Based Emotional Recognition Using Deep Learning Algorithm
+SP  - 8379202
+VL  - 2022
+AB  - Humans have traditionally found it simple to identify emotions from facial expressions, but it is far more difficult for a computer system to do the same. The social signal processing subfield of emotion recognition from facial expression is used in a wide range of contexts, particularly for human-computer interaction. Automatic emotion recognition has been the subject of numerous studies, most of which use a machine learning methodology. The recognition of simple emotions like anger, happiness, contempt, fear, sadness, and surprise, however, continues to be a difficult topic in computer vision. Deep learning has recently drawn increased attention as a solution to a variety of practical issues, including emotion recognition. In this study, we improved the convolutional neural network technique to identify 7 fundamental emotions and evaluated several preprocessing techniques to demonstrate how they affected the CNN performance. This research focuses on improving facial features and expressions based on emotional recognition. By identifying or recognising facial expressions that elicit human responses, it is possible for computers to make more accurate predictions about a person&#x27;s mental state and to provide more tailored responses. As a result, we examine how a deep learning technique that employs a convolutional neural network might improve the detection of emotions based on facial features (CNN). Multiple facial expressions are included in our dataset, which consists of about 32,298 photos for testing and training. The preprocessing system aids in removing noise from the input image, and the pretraining phase aids in revealing face detection after noise removal, including feature extraction. As a result, the existing paper generates the classification of multiple facial reactions like the seven emotions of the facial acting coding system (FACS) without using the optimization technique, but our proposed paper reveals the same seven emotions of the facial acting coding system.
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2022/8379202
+DO  - 10.1155/2022/8379202
+JF  - Computational Intelligence and Neuroscience
+PB  - Hindawi
+KW  - 
+ER  - 
